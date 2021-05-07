@@ -1,0 +1,15 @@
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresa.Infra.Data\bin\Debug\net5.0\Empresas.Dominio.dll
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresa.Infra.Data\obj\Debug\net5.0\Empresas.Infra.Data.csprojAssemblyReference.cache
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresa.Infra.Data\obj\Debug\net5.0\Empresas.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresa.Infra.Data\obj\Debug\net5.0\Empresas.Infra.Data.AssemblyInfoInputs.cache
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresa.Infra.Data\obj\Debug\net5.0\Empresas.Infra.Data.AssemblyInfo.cs
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresa.Infra.Data\bin\Debug\net5.0\Empresas.Infra.Data.deps.json
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresa.Infra.Data\bin\Debug\net5.0\Empresas.Infra.Data.dll
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresa.Infra.Data\bin\Debug\net5.0\ref\Empresas.Infra.Data.dll
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresa.Infra.Data\bin\Debug\net5.0\Empresas.Infra.Data.pdb
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresa.Infra.Data\bin\Debug\net5.0\Empresas.Dominio.pdb
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresa.Infra.Data\obj\Debug\net5.0\Empresas.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresa.Infra.Data\obj\Debug\net5.0\Empresas.Infra.Data.csproj.CopyComplete
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresa.Infra.Data\obj\Debug\net5.0\Empresas.Infra.Data.dll
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresa.Infra.Data\obj\Debug\net5.0\ref\Empresas.Infra.Data.dll
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresa.Infra.Data\obj\Debug\net5.0\Empresas.Infra.Data.pdb

@@ -1,0 +1,12 @@
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresas.Dominio\bin\Debug\net5.0\Empresas.Dominio.deps.json
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresas.Dominio\bin\Debug\net5.0\Empresas.Dominio.dll
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresas.Dominio\bin\Debug\net5.0\ref\Empresas.Dominio.dll
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresas.Dominio\bin\Debug\net5.0\Empresas.Dominio.pdb
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresas.Dominio\obj\Debug\net5.0\Empresas.Dominio.csprojAssemblyReference.cache
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresas.Dominio\obj\Debug\net5.0\Empresas.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresas.Dominio\obj\Debug\net5.0\Empresas.Dominio.AssemblyInfoInputs.cache
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresas.Dominio\obj\Debug\net5.0\Empresas.Dominio.AssemblyInfo.cs
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresas.Dominio\obj\Debug\net5.0\Empresas.Dominio.csproj.CoreCompileInputs.cache
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresas.Dominio\obj\Debug\net5.0\Empresas.Dominio.dll
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresas.Dominio\obj\Debug\net5.0\ref\Empresas.Dominio.dll
+D:\Limpeza\Deal\Treinamentos\Projeto Baiao\Empresas\Projeto 1\Empresas\Empresas.Dominio\obj\Debug\net5.0\Empresas.Dominio.pdb

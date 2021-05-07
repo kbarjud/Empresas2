@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OVsjYYNBwXE4vsG4piDY5eGqBUWe4ZGT4NeQpyNbzNmFc+pqU3Pqo6dFJtlM/GBf3aKxyVOmDDzvg0/MKB917A==",
+  "success": true,
+  "projectFilePath": "D:\\Limpeza\\Deal\\Treinamentos\\Projeto Baiao\\Empresas\\Projeto 1\\Empresas\\Empresas.Dominio\\Empresas.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Camila\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512"
+  ],
+  "logs": []
+}

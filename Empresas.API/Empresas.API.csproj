@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="C:\Users\Camila\.nuget\packages\mysql.data.entityframework\8.0.24\contentFiles\any\netstandard2.1\app.config.transform" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.0.24" />
+    <PackageReference Include="MySql.Data.EntityFramework" Version="8.0.24" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Empresa.Infra.Data\Empresas.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
